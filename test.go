@@ -1,3 +1,7 @@
 package yaojungit
 
-fasdfasdf
+import "fmt"
+
+func solve() {
+	fmt.Println("hello world")
+}
